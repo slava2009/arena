@@ -20,8 +20,8 @@ export default function Home() {
               src="/vercel.svg"
               alt="Vercel Logo"
               className={styles.vercelLogo}
-              width={300}
-              height={50}
+              width={250}
+              height={25}
               priority
             />
           </a>
