@@ -1,6 +1,11 @@
 import Image from 'next/image'
 import styles from './page.module.css'
 
+"scripts": {
+  ...
+  "tunnel": "vk-tunnel --insecure=1 --http-protocol=https --ws-protocol=wss --host=0.0.0.0 --port=10888"
+}
+
 export default function Home() {
   return (
     <main className={styles.main}>
