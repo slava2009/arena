@@ -15,13 +15,13 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Наш сайт{' '}
+            Наш сайт--->{' '}
             <Image
               src="/vercel.svg"
               alt="Vercel Logo"
               className={styles.vercelLogo}
-              width={600}
-              height={70}
+              width={140}
+              height={90}
               priority
             />
           </a>
