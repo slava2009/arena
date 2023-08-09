@@ -41,7 +41,7 @@ export default function Home() {
 
       <div className={styles.grid}>
         <a
-          href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+          href="https://calendar.google.com/calendar/u/0/embed?src=b491b4e810851afe89db6c0b8055320d09af3246f60b8b7004b39c6bece7164b@group.calendar.google.com&ctz=Europe/Moscow"
           className={styles.card}
           target="_blank"
           rel="noopener noreferrer"
@@ -53,37 +53,37 @@ export default function Home() {
         </a>
 
         <a
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+          href="https://calendar.google.com/calendar/u/0/embed?src=jgl24dlkvmobfa4eh6ob5qomks@group.calendar.google.com&ctz=Europe/Moscow"
           className={styles.card}
           target="_blank"
           rel="noopener noreferrer"
         >
           <h2>
-            Learn <span>-&gt;</span>
+            Большая арена <span>-&gt;</span>
           </h2>
           <p>Learn about Next.js in an interactive course with&nbsp;quizzes!</p>
         </a>
 
         <a
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+          href="https://calendar.google.com/calendar/u/0/embed?src=pj4va06gncb1vgv76864hbsh08@group.calendar.google.com&ctz=Europe/Moscow"
           className={styles.card}
           target="_blank"
           rel="noopener noreferrer"
         >
           <h2>
-            Templates <span>-&gt;</span>
+            Малая арена <span>-&gt;</span>
           </h2>
           <p>Explore the Next.js 13 playground.</p>
         </a>
 
         <a
-          href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+          href="https://vk.com/katokozerki"
           className={styles.card}
           target="_blank"
           rel="noopener noreferrer"
         >
           <h2>
-            Deploy <span>-&gt;</span>
+            Мы ВКонтакте <span>-&gt;</span>
           </h2>
           <p>
             Instantly deploy your Next.js site to a shareable URL with Vercel.
