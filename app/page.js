@@ -49,7 +49,7 @@ export default function Home() {
           <h2>
             Центральная игровая арена <span>-&gt;</span>
           </h2>
-          <p></p>
+          <p>Размер арены 26х56</p>
         </a>
 
         <a
@@ -61,7 +61,7 @@ export default function Home() {
           <h2>
             Большая арена <span>-&gt;</span>
           </h2>
-          <p>Learn about Next.js in an interactive course with&nbsp;quizzes!</p>
+          <p>Размер арены 26х56</p>
         </a>
 
         <a
@@ -73,7 +73,7 @@ export default function Home() {
           <h2>
             Малая арена <span>-&gt;</span>
           </h2>
-          <p>Explore the Next.js 13 playground.</p>
+          <p>Размер арены 20х40</p>
         </a>
 
         <a
@@ -86,7 +86,7 @@ export default function Home() {
             Мы ВКонтакте <span>-&gt;</span>
           </h2>
           <p>
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
+            Все актуальное здесь.
           </p>
         </a>
       </div>
