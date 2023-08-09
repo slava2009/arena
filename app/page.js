@@ -7,7 +7,7 @@ export default function Home() {
       <div className={styles.description}>
         <p>
           Расписание ледовой арены
-          <code className={styles.code}> 'Озерки'</code>
+          <code className={styles.code}> Озерки</code>
         </p>
         <div>
           <a
