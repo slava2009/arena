@@ -5,7 +5,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
   title: 'Расписание свободного катания и час хоккея',
-  description: 'Актуальное расписание для всех ледовых арена Озерки',
+  description: 'Онлайн расписание для всех ледовых арена Озерки',
 }
 
 export default function RootLayout({ children }) {
