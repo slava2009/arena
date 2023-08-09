@@ -6,8 +6,8 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Расписание ледовой арены;
-          <code className={styles.code}>Озерки</code>
+          Расписание ледовой арены ;
+          <code className={styles.code}> Озерки</code>
         </p>
         <div>
           <a
